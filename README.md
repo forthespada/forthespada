@@ -40,7 +40,7 @@
 
 - :dog: 知乎：『[阿秀](https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers)』
 
-- 👯 公众号：『[拓拔阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/公众号二维码.jpg)』
+- 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
 - 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』
 
