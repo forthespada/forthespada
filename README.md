@@ -50,6 +50,6 @@
 
   
 
-- <img src="https://github-profile-trophy.vercel.app/?username=forthespada&theme=flat&column=7" alt="logo" align="left" style="margin: auto;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=forthespada&theme=flat&column=7" alt="logo" align="left" style="margin: auto;"/>
 
   
