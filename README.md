@@ -39,7 +39,7 @@
 
 - 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』，欢迎来撩😄
 
-- :clap: 拥抱开源时代，享受IT技术给我们带来的全新体验 
+- :clap: 拥抱开源时代，享受IT技术带给我们的全新体验 
 
   
 
