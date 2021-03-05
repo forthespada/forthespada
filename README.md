@@ -33,7 +33,7 @@
 
 - 🤔 双非菜鸡，8个月学C++，投94家公司，笔试54场，面试34场，拿6个offer，艰难上岸
 
-- :dog: 知乎：『[阿秀](https://www.zhihu.com/people/yi-wen-zi-hao-shu/answers)』
+- :dog: 知乎：『[拓跋阿秀](https://www.zhihu.com/people/tuo-ba-a-xiu/answers)』
 
 - 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
