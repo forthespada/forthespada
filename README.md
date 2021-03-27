@@ -40,7 +40,7 @@
 
 - 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
 
-- :clap: 尽情拥抱开源时代，享受IT技术带给我们的Amazing体验 
+- :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
   
 
