@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
   
 
 
@@ -30,7 +30,7 @@
 - ⚡ Fun fact: ...
   -->
 
-- :smile: 字节跳动抖音部门全栈工程师一枚(准入职)
+- :smile: 字节跳动抖音部门全栈工程师一枚
 
 - 🤔 双非菜鸡，8个月学C++，投94家公司，笔试54场，面试34场，拿6个offer，艰难上岸
 
@@ -38,9 +38,9 @@
 
 - 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
-- 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』,长期内推字节一些地域一切岗位。欢迎来撩😄拉你进大佬群~~吹水~~学习
+- 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
 
-- :clap: 拥抱开源时代，享受IT技术带给我们的全新体验 
+- :clap: 尽情拥抱开源时代，享受IT技术带给我们的Amazing体验 
 
   
 
