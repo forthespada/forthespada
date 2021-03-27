@@ -43,6 +43,7 @@
 
   
 
-<img src="https://github-profile-trophy.vercel.app/?username=forthespada&theme=flat&column=7" alt="logo" align="left" style="margin: auto;"/>
-
+<!--<img src="https://github-profile-trophy.vercel.app/?username=forthespada&theme=flat&column=7" alt="logo" align="left" style="margin: auto;"/>
+-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
   
