@@ -38,7 +38,7 @@
 
 - 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
-- 💬 个人微信：『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.5/202101/阿秀个人微信.jpg)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
+- 💬 个人微信：『[coderxiu1](https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
 
 - :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
