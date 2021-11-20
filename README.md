@@ -6,7 +6,7 @@
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=forthespada&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
-  
+
 
 
 ### Hi 小伙伴你好 👋我是阿秀
@@ -30,9 +30,11 @@
 - ⚡ Fun fact: ...
   -->
 
-- :smile: 字节跳动抖音部门全栈工程师一枚，前端后端都要干的那种..
+- :smile: 字节跳动抖音部门全栈研发工程师一枚，主后端，兼前端，编程知识博主..
 
 - 🤔 双非菜鸡，8个月学C++，投94家公司，笔试54场，面试40余场，拿6个offer，最后怒拿**字节跳动SP**
+
+- 🌱 经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247490699&idx=1&sn=0f7a1ee4100a310d679f5ab84fbfa3bc&chksm=ce25e0f6f95269e08c740d212bc7b0d7a4f9a5c01b9a5fff7ed92c30f2348638a3b0c829374e&scene=178&cur_album_id=1738665691953594370#rd)
 
 - :dog: 知乎：『[拓跋阿秀](https://www.zhihu.com/people/tuo-ba-a-xiu/answers)』
 
