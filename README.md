@@ -42,7 +42,7 @@
 
 - 👯 公众号：『[拓拔阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)』
 
-- 💬 个人微信：『[coderxiu1](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@1.0/202107/阿秀二号纯微信.jpg)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
+- 💬 个人微信：『[coderxiu2](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204281304520.png)』,长期内推字节所有岗位.欢迎来撩😄拉你进大佬群~~吹水~~学习
 -->
 - :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
