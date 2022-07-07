@@ -46,6 +46,20 @@
 -->
 - :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
+
+<div align="center">
+    <p align="center"><b>知识星球</b>：<a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90">阿秀的学习圈</a> 👇</p>
+   <table>
+  		<tbody>
+            <tr>
+               <td align="center" valign="middle">
+                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206190108471.png" width="900px"></a>
+              </td>       
+            </tr>
+  		</tbody>
+	</table>
+</div>
+
   
 
 <!--<img src="https://github-profile-trophy.vercel.app/?username=forthespada&theme=flat&column=7" alt="logo" align="left" style="margin: auto;"/>
