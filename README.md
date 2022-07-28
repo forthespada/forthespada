@@ -15,7 +15,7 @@
 
 
 - 🌱 我的计算机自学经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247490699&idx=1&sn=0f7a1ee4100a310d679f5ab84fbfa3bc&chksm=ce25e0f6f95269e08c740d212bc7b0d7a4f9a5c01b9a5fff7ed92c30f2348638a3b0c829374e&scene=178&cur_album_id=1738665691953594370#rd)
-- 🤔 信奉持续学习、终生成长，毕业后机缘巧合下组建了一个计算机学习圈：[点此了解学习圈详情](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90)
+- 🤔 信奉持续学习、终生成长，毕业后机缘巧合下组建了一个计算机学习圈：[点此了解阿秀的学习圈更多详情](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90)
 
 你可以在下面这些平台找到我:
 
