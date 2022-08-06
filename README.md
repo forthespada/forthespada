@@ -19,7 +19,7 @@
 
 你可以在下面这些平台找到我:
 
-- [🔭我的校招学习笔记网站](https://interviewguide.cn/notes/01-guide/web-guide-reading.html)
+- [🔭校招八股文学习笔记网站](https://interviewguide.cn/notes/01-guide/web-guide-reading.html)
 - [:dog: 知乎@拓跋阿秀](https://www.zhihu.com/people/tuo-ba-a-xiu/answers)
 - [👯微信公众号@拓跋阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)
 
