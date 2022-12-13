@@ -33,10 +33,11 @@
 
 - [InterviewGuide](https://github.com/forthespada/InterviewGuide)🚀：阿秀从校园->职场多年计算机自学过程的笔记以及学弟学妹们秋招总结文章
 - [CS-Books](https://github.com/forthespada/CS-Books)🚀：从本科->研究生->工作，这十余年来自己收集的计算机相关的经典书籍以及学习资源
+- [Awsome-Courses🚀](https://github.com/forthespada/Awsome-Courses)🚀：国外MIT、CMU、PKU、THU等知名CS高校的计算课程列表....
+- [CampusShame](https://github.com/forthespada/CampusShame)🚀：校招污点与非污点公司名单
 - [developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN)：互联网校招技术岗开发者学习路线图
 - [MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer)：基于C++ 实现的HTTP服务器
-- [programmer-resume](https://github.com/forthespada/programmer-resume)🚀：阿秀自己的计算机求职简历模板
-- [Awsome-Courses🚀](https://github.com/forthespada/Awsome-Courses)：国外MIT、CMU、PKU、THU等知名CS高校的计算课程列表....
+- [programmer-resume](https://github.com/forthespada/programmer-resume)🚀：收集到的计算机求职简历模板
 - [E-commerce](https://github.com/forthespada/E-commerce):京东、苏宁、国美全站数据抓取，1000W的商品链接+8000W的商品数据和评论数据
 
 ### 我的学习圈子
