@@ -48,7 +48,7 @@
   		<tbody>
             <tr>
                <td align="center" valign="middle">
-                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206190108471.png" width="900px" target="_blank"></a>
+                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202302042310919.png" width="900px" target="_blank"></a>
               </td>       
             </tr>
   		</tbody>
