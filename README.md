@@ -33,27 +33,29 @@
 
 - [InterviewGuide](https://github.com/forthespada/InterviewGuide)🚀：阿秀从校园->职场多年计算机自学过程的笔记以及学弟学妹们秋招总结文章
 - [CS-Books](https://github.com/forthespada/CS-Books)🚀：从本科->研究生->工作，这十余年来自己收集的计算机相关的经典书籍以及学习资源
-- [Awsome-Courses🚀](https://github.com/forthespada/Awsome-Courses)🚀：国外MIT、CMU、PKU、THU等知名CS高校的计算课程列表....
-- [CampusShame](https://github.com/forthespada/CampusShame)🚀：校招污点与非污点公司名单
 - [developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN)：互联网校招技术岗开发者学习路线图
 - [MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer)：基于C++ 实现的HTTP服务器
-- [programmer-resume](https://github.com/forthespada/programmer-resume)🚀：收集到的计算机求职简历模板
+- [programmer-resume](https://github.com/forthespada/programmer-resume)🚀：阿秀自己的计算机求职简历模板
+- [Awsome-Courses🚀](https://github.com/forthespada/Awsome-Courses)：国外MIT、CMU、PKU、THU等知名CS高校的计算课程列表....
 - [E-commerce](https://github.com/forthespada/E-commerce):京东、苏宁、国美全站数据抓取，1000W的商品链接+8000W的商品数据和评论数据
 
 ### 我的学习圈子
 
+
+
 <div align="center">
-    <p align="center"><b>知识星球</b>：<a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90">阿秀的学习圈</a> 👇</p>
+    <p align="center"><b>知识星球</b>：<a href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9">阿秀的学习圈</a> 👇</p>
    <table>
   		<tbody>
             <tr>
                <td align="center" valign="middle">
-                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202302042310919.png" width="900px" target="_blank"></a>
+                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://oss.interviewguide.cn/img/202304091541810.png" width="900px" target="_blank"></a>
               </td>       
             </tr>
   		</tbody>
 	</table>
 </div>
+
 
 ### 我的公众号
 
@@ -62,8 +64,9 @@
 微信搜索：「拓跋阿秀」第一时间围观，关注后回复：**宝贝**，真的会送你一个宝贝~。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207231714905.png" style="width: 300px; height:300px" />
+  <img src="https://oss.interviewguide.cn/img/202207231714905.png" style="width: 300px; height:300px" />
 </div>
+
 
 **「拓跋阿秀」每天都会分享一篇计算机学习、校招、职场、大厂相关文章，帮你梳理计算机知识体系，轻松应对计算机校招求职！**
 
