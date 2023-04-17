@@ -24,7 +24,7 @@
 - [👯微信公众号@拓跋阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)
 
 
-- 💬 个人微信：[coderxiu2](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204281304520.png)，如果你有计算机学习、转行、校招、求职等方面的困扰，也欢迎你与我交流，备注：「个人简单介绍」 + 交流，围观个人朋友圈，做点赞之交
+- 💬 个人微信：[coderxiu2](https://oss.interviewguide.cn/img/202204281304520.png)，如果你有计算机学习、转行、校招、求职等方面的困扰，也欢迎你与我交流，备注：「个人简单介绍」 + 交流，围观个人朋友圈，做点赞之交
 - :clap: 尽情拥抱开源时代，享受IT技术带给我们的**Amazing**体验 
 
 ### 我的开源项目 🏆
@@ -64,7 +64,7 @@
 微信搜索：「拓跋阿秀」第一时间围观，关注后回复：**宝贝**，真的会送你一个宝贝~。
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202207231714905.png" style="width: 300px; height:300px" />
+  <img src="http://oss.interviewguide.cn/img/202207231714905.png" style="width: 300px; height:300px" />
 </div>
 
 
