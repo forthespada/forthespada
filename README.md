@@ -14,14 +14,14 @@
 - :smile: 普通双非学校出身，计算机学习基本全靠自学，校招时拿下百度、华为、农业银行、字节跳动SP等中大厂offer，后于字节跳动抖音部门担任**全栈研发工程师**，主后端、兼前端。
 
 
-- 🌱 我的计算机自学经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247490699&idx=1&sn=0f7a1ee4100a310d679f5ab84fbfa3bc&chksm=ce25e0f6f95269e08c740d212bc7b0d7a4f9a5c01b9a5fff7ed92c30f2348638a3b0c829374e&scene=178&cur_album_id=1738665691953594370#rd)
+- 🌱 我的计算机自学经历：[逆袭？NO！只是多了一点坚持！](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247511591&idx=1&sn=a24ae5a7a3516c78e91076e6679ecd6d&source=41#wechat_redirect)
 - 🤔 信奉持续学习、终生成长，毕业后机缘巧合下组建了一个计算机学习圈：[点此了解阿秀的学习圈更多详情](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90)
 
 你可以在下面这些平台找到我:
 
 - [🔭校招八股文学习笔记网站](https://interviewguide.cn/notes/01-guide/web-guide-reading.html)
 - [:dog: 知乎@拓跋阿秀](https://www.zhihu.com/people/tuo-ba-a-xiu/answers)
-- [👯微信公众号@拓跋阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)
+- [👯微信公众号@拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247512286&idx=1&sn=ca6b98ce80b00bc9e8ef475469eb363e&source=41#wechat_redirect)
 
 
 - 💬 个人微信：[coderxiu2](https://oss.interviewguide.cn/img/202204281304520.png)，如果你有计算机学习、转行、校招、求职等方面的困扰，也欢迎你与我交流，备注：「个人简单介绍」 + 交流，围观个人朋友圈，做点赞之交
@@ -64,7 +64,7 @@
 微信搜索：「拓跋阿秀」第一时间围观，关注后回复：**宝贝**，真的会送你一个宝贝~。
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202207231714905.png" style="width: 300px; height:300px" />
+  <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="width: 300px; height:300px" />
 </div>
 
 
