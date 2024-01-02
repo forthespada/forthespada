@@ -30,7 +30,7 @@
 ### 我的开源项目 🏆
 
 ---
-
+- [AwesomeGithub](https://github.com/forthespada/AwesomeGithub)🔥：收集 GitHub 上高质量、有趣、沙雕的开源项目(⊙_⊙)。
 - [InterviewGuide](https://github.com/forthespada/InterviewGuide)🚀：阿秀从校园->职场多年计算机自学过程的笔记以及学弟学妹们秋招总结文章
 - [CS-Books](https://github.com/forthespada/CS-Books)🚀：从本科->研究生->工作，这十余年来自己收集的计算机相关的经典书籍以及学习资源
 - [developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN)：互联网校招技术岗开发者学习路线图
@@ -38,6 +38,18 @@
 - [programmer-resume](https://github.com/forthespada/programmer-resume)🚀：阿秀自己的计算机求职简历模板
 - [Awsome-Courses🚀](https://github.com/forthespada/Awsome-Courses)：国外MIT、CMU、PKU、THU等知名CS高校的计算课程列表....
 - [E-commerce](https://github.com/forthespada/E-commerce):京东、苏宁、国美全站数据抓取，1000W的商品链接+8000W的商品数据和评论数据
+
+### 我的公众号
+
+持续个人计算机学习、编程、校招、职场工作等原创技术文章，希望自己踩过的坑后来人不要再踩，自己学过的内容能够帮助后来人一步一个脚印得慢慢成长🌹🌹🌹！
+
+微信搜索：「拓跋阿秀」第一时间围观，扫码后回复：**宝贝**，真的会送你一个宝贝~。
+
+<div align="center">
+  <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="width: 300px; height:300px" />
+</div>
+
+<!--
 
 ### 我的学习圈子
 
@@ -57,15 +69,7 @@
 </div>
 
 
-### 我的公众号
 
-持续个人计算机学习、编程、校招、职场工作等原创技术文章，希望自己踩过的坑后来人不要再踩，自己学过的内容能够帮助后来人一步一个脚印得慢慢成长🌹🌹🌹！
-
-微信搜索：「拓跋阿秀」第一时间围观，关注后回复：**宝贝**，真的会送你一个宝贝~。
-
-<div align="center">
-  <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="width: 300px; height:300px" />
-</div>
 
 
 **「拓跋阿秀」每天都会分享一篇计算机学习、校招、职场、大厂相关文章，帮你梳理计算机知识体系，轻松应对计算机校招求职！**
